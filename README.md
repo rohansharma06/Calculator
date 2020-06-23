@@ -1,7 +1,7 @@
 # Calculator
 
-A Simple calculator made using JavaScript.
+A Simple calculator with multiply, dividion, addition, subtraction functionality.
 
-[Hosted link](https://rohansharma06.github.io/Calculator/)
+` Check out: [Hosted link](https://rohansharma06.github.io/Calculator/) `
 
 ![Homepage](/calc.JPG)
